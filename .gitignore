@@ -1,0 +1,11 @@
+server/bin
+server/lib
+server/test
+server/tmp
+server/vendor
+server/config.ru
+server/rakefile
+server/Gemfile.lock
+
+client/node_modules
+client/vite.config
